@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ss -lntp:*)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
