@@ -1,8 +1,5 @@
 # Backstage IDP — My Practical Learning Journey
 
-> **Learner:** CR Hapuarachchi ([@0019-KDU](https://github.com/0019-KDU))
-> **Instance:** http://24.144.83.231:3000
-
 This is my hands-on Backstage IDP instance. The 3 folders inside this repo are my **practical study repositories** — each one built during a specific learning module.
 
 ---
